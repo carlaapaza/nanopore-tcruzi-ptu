@@ -7,7 +7,7 @@ Hybrid PTU/SSR annotator for trypanosomatid genomes.
 
 Combines:
 - Robust file handling & (optional) GFF3 header preservation like the "alexranieri" script
-- Clean outputs (TSV / GTF / BED) like your original script
+- Clean outputs (TSV / GTF / BED).
 - Optional TSS emission at dSSRs (configurable)
 - Works with GFF3 (key=value) or GTF (key "value") attributes
 
